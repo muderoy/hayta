@@ -1,0 +1,143 @@
+@charset "utf-8";
+/*
+Paratinet Framework v.1
+	@paratinet.com.tr
+	@my.paratinet.com.tr /* Support Center
+*/
+
+/* GLOBAL   
+=======================================================================================*/
+/* Headings 
+------------------------------------------------------------*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { border: 0; margin: 0; padding: 0; vertical-align: baseline; }
+/*----------------------------------------------------------*/
+
+/* Headings 
+------------------------------------------------------------*/
+h2 { font-size: 1.571em }	/* 22px */
+h3 { font-size: 1.429em }	/* 20px */
+h4 { font-size: 1.286em }	/* 18px */
+h5 { font-size: 1.143em }	/* 16px */
+h6 { font-size: 1em }		/* 14px */
+h2, h3, h4, h5, h6 { font-weight: bold; line-height: 1.1; margin-bottom: .8em; }
+/*----------------------------------------------------------*/
+
+/* Anchors 
+------------------------------------------------------------*/
+a img { border: 0px; text-decoration: none; }
+a, a:link, a:visited { text-decoration: none; text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
+/*----------------------------------------------------------*/
+
+/* Paragraphs 
+------------------------------------------------------------*/
+p { }
+* p:last-child { margin-bottom: 0; }
+strong, b { font-weight: bold; }
+em, i { font-style: italic; }
+/*----------------------------------------------------------*/
+
+/* Lists 
+------------------------------------------------------------*/
+ul { list-style: none; }
+ol { list-style: none; }
+dl { margin: 0; }
+dt { font-weight: bold; }
+dd { margin: 0; }
+/*----------------------------------------------------------*/
+
+/* Quotes 
+------------------------------------------------------------*/
+blockquote { font-style: italic; }
+cite { }
+q { }
+/*----------------------------------------------------------*/
+
+/* Tables 
+------------------------------------------------------------*/
+table { margin: 0; }
+/*----------------------------------------------------------*/
+
+/* Thead 
+------------------------------------------------------------*/
+thead th { padding: 0; text-align: left; }
+thead td { }
+/*----------------------------------------------------------*/
+
+/* Tbody 
+------------------------------------------------------------*/
+tbody td { padding: 0; }
+tbody th { }
+tbody .alt td { }
+tbody .alt th { }
+/*----------------------------------------------------------*/
+
+/* Tfoot 
+------------------------------------------------------------*/
+tfoot th { }
+tfoot td { }
+/*----------------------------------------------------------*/
+
+/* Input & Select
+------------------------------------------------------------*/
+input, select { outline: none; }
+/*----------------------------------------------------------*/
+
+/* Border & Focus
+------------------------------------------------------------*/
+img { border: none; }
+:focus { outline: none; }
+/*----------------------------------------------------------*/
+
+/* Helpers
+------------------------------------------------------------*/
+.clear { clear: both; height: 25px; }
+.center { text-align: center; margin: 10px auto; }
+img.center { margin: 10px 0 20px 100px !important; }
+.left { float: left; }
+.right { float: right; clear: both; position: relative; top: -21px; }
+.alignleft { float: left; margin-right: 28px; }
+.alignright { float: right; margin-left: 28px; }
+.aligncenter { text-align: center; }
+.half { width: 50%; }
+.triple { width: 33%; }
+.no-display { display: none; }
+.no-border { border: none !important; }
+.no-bg { background: none !important; }
+.no-bg-img { background-position: 1000px 1000px !important; }
+.text-justify { text-align: justify; }
+.no-margin { margin: 0 !important; }
+.visible { display: block; }
+.clearfix:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
+.clearfix { display: block; }
+* html .clearfix { height: 1%; }
+.hide { display: none; }
+.show { display: block; }
+/*----------------------------------------------------------*/
+
+/* Wrapper
+------------------------------------------------------------*/
+.wrapper { max-width: 980px; width: 100%; margin: 0 auto; }
+/*----------------------------------------------------------*/
+
+/* Example
+------------------------------------------------------------*/
+
+/*----------------------------------------------------------*/
+
+/* Example
+------------------------------------------------------------*/
+
+/*----------------------------------------------------------*/
+
+/* Example
+------------------------------------------------------------*/
+
+/*----------------------------------------------------------*/
+
+/* Example
+------------------------------------------------------------*/
+
+/*----------------------------------------------------------*/
+
+/*=======================================================================================*/
